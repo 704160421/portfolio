@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/",
+    "file": "index.html"
+  },
+  {
+    "path": "/works",
+    "file": "index.html"
+  },
+  {
+    "path": "/work/:id",
+    "file": "index.html"
+  },
+  {
+    "path": "/about",
+    "file": "index.html"
+  },
+  {
+    "path": "/contact",
+    "file": "index.html"
+  }
+]
